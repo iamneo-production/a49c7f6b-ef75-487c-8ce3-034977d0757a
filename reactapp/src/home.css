@@ -1,0 +1,12 @@
+.navbar{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color:rgb(150, 207, 213);
+  }
+  .nav{
+    display:flex;
+    justify-content: space-around;
+    width: 40%;
+  }
