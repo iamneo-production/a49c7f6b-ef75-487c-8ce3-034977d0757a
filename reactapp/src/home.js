@@ -12,7 +12,7 @@ function Homepage(){
             <h1 >About</h1>
             </Link>
             <Link to="/courses" className="courses">
-            <h1 >PG courses</h1>
+            <h1 >PG courses</h1> 
             </Link>
             <Link to="/application" className="application">
             <h1 >Application</h1>
